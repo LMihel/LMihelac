@@ -26,6 +26,6 @@ She is a collaborator and supervisor in SciDrom – IoT, ŠC Novo mesto, a scien
 
 ### (Ir)regularity in different musical genres
 
-## [(Dis)similarities in the use of musical elements between and within 22 European countries](https://github.com/LMihel/LMihel.github.io/blob/(Dis)similarities-in-Musical-Features-and-Dimensions-Between-and-Within-22-European-countries/README.md)
+## [(Dis)similarities in the use of musical elements between and within 22 European countries](https://github.com/LMihel/LMihel.github.io/tree/(Dis)similarities-in-Musical-Features-and-Dimensions-Between-and-Within-22-European-countries)
 
 
