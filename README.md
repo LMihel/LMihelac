@@ -23,7 +23,7 @@ She is a collaborator and supervisor in SciDrom – IoT, ŠC Novo mesto, a scien
 ## (Ir)regularity in musical structure
 ### (Ir)regularity in children's folk songs
 
-## (Ir)regularity in different musical genres
+### (Ir)regularity in different musical genres
 
 ## (Dis)similarities in the use of musical elements between and within 22 European countries
 
