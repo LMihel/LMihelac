@@ -1,7 +1,6 @@
 # (Ir)regularity in musical structure 
 
-## (Ir)regularity in musical structure
-### (Ir)regularity in children's folk songs
+## (Ir)regularity in children's folk songs
 
 In music, regularity is perceived as a highly ordered texture with prominent periodic patterns and strong neighboring relationships, in which musical ideas are organized in a way that the human mind can understand. In contrast, irregularity is experienced in an unstructured or poorly structured musical piece, where the relationship between patterns is rarely discernible and enjoyment is diminished by the enormous mental space required to process unique musical content. The interaction between regularity and irregularity in musical structure is one of the fundamental forms of musical expression used by composers across all musical styles (perhaps with different proportions in different aesthetics). 
 
