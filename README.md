@@ -20,7 +20,8 @@ She is a collaborator and supervisor in SciDrom – IoT, ŠC Novo mesto, a scien
 ## [Computational segmentation](https://github.com/LMihel/LMihel.github.io/tree/Computational-Segmentation-of-Melody#computational-segmentation)
 
 
-## (Ir)regularity in musical structure
+## [(Ir)regularity in musical structure](https://github.com/LMihel/LMihel.github.io/tree/(Ir)regularity-in-Musical-Structure)
+
 ### (Ir)regularity in children's folk songs
 
 ### (Ir)regularity in different musical genres
