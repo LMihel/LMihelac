@@ -13,7 +13,7 @@ She is a collaborator and supervisor in SciDrom – IoT, ŠC Novo mesto, a scien
 
 # DATASETS
 
-## [Segmentation in children](https://github.com/LMihel/LMihel.github.io/blob/Segmentation-of-Melody/README.md)
+## [Segmentation in children](https://github.com/LMihel/LMihel.github.io/tree/Segmentation-of-Melody)
 
 
 
