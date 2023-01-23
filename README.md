@@ -8,6 +8,8 @@ Even though interest in children's folk songs has increased among ethnomusicolog
 
 The impact of various musical elements/dimensions on children's folk song perceptions of (ir)regularity and complexity is mostly unclear. Although cross-cultural study on melodic complexity has been undertaken, the majority of it has focused on children's lullabies. There are currently no studies that use computational models to simulate the perception of (ir)regularity in children's folk songs. This may be because children's folk songs are generally considered to be regular, with a simple structure with repeated patterns, and even as a primitive layer of folk songs.
 
+Paper (please cite): Mihelač, L., Povh, J. & Wiggins, G. A. (2021). A computational approach to the detection and prediction of(ir)regularity in children’s folk songs. Submitted to journal "Empirical Musicology Review" (accepted; waiting for published version).
+
 DATASET with description:
 
 [Ir_regularity_CFS_Songs.zip](https://github.com/LMihel/LMihel.github.io/files/10477669/Ir_regularity_CFS_Songs.zip)
@@ -21,9 +23,19 @@ These measures have been evaluated in each musical example within our dataset, c
 
 A statistical analysis of this dataset shows that all the measures of complexity are consistent and are together with the musical style important features in explaining the musical acceptability. These relations were further elaborated by regression tree analysis for difficulty and pleasantness after unigram entropy was eliminated due to high correlation with bigram entropy. Results offer reasonable interpretations and also illuminate the relative importance of the predictor variables. In particular, the regularity of the harmonic progression is in both cases the most important predictor.
 
+PAPERS:
+
 Paper 1 (please cite): Lorena Mihelač and Janez Povh. 2020. The Impact of the Complexity of Harmony on the Acceptability of Music. ACM Trans. Appl. Percept. 17, 1, Article 3 (January 2020), 27 pages. https://doi.org/10.1145/3375014
 
 Paper 2 (please cite): Mihelač,L. & Povh,J.(2020).AI based algorithms for the detection of (ir)regularity in musical structure. International Journal of Applied Mathematics and Computer Science,30(4) 761-772. https://doi.org/10.34768/amcs-2020-0056
+
+Paper 3 (please cite): Mihelač, L. & Povh, J. (2017). Predicting the acceptability of music with entropy of harmony. In Proceedings SOR’17 (pp. 371-375).
+
+Paper 4 (please cite): Mihelač, L., Wiggins, G. A., Lavrač, N., & Povh, J. (2018). Entropy and acceptability: information dynamics and music acceptance. In Proceedings of ICMPC15/ESCOM10 (pp. 313-317).
+
+Paper 5 (please cite): Mihelač, L. & Povh, J. (2019). The impact of harmony on the perception of music. In Proceedings SOR’19 (pp. 360-365).
+
+DATASET
 
 Dataset: DATA_HARMCOMP1 AND DATA_HARMCOMP2
 
