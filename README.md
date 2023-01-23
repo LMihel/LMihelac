@@ -32,7 +32,7 @@ A statistical analysis of this dataset shows that all the measures of complexity
 
 Human experts involved in the detection of (ir)regularity were replaced with artificial intelligence algorithms. Eight variables were evaluated in  measuring entropy and information content, which can be analysed for each musical piece using the computational model Information Dynamics of Music (IDyOM) and different viewpoints (functions for the observation of musical surface). Tested were 160 musical excerpts. A preliminary statistical analysis indicated that three of the eight variables were significant predictors of regularity (Ecpitch, ICcpintfref,and Ecpintfref). Additionally, linear separation was observed between regular and irregular excerpts.   Support vector machine and artificial neural network (ANN) algorithms with a linear kernel and a linear activation function were employed to predict regularity. The final algorithms were capable of predicting regularity with an accuracy ranging from 89% for the ANN algorithm using only the most significant predictor to 100% for the ANN algorithm using all eight prediction variables.
 
-PAPERS:
+<code style="color : cyan">PAPERS:</code>
 
 Paper 1 (please cite): Lorena Mihelač and Janez Povh. 2020. The Impact of the Complexity of Harmony on the Acceptability of Music. ACM Trans. Appl. Percept. 17, 1, Article 3 (January 2020), 27 pages. https://doi.org/10.1145/3375014
 
@@ -44,7 +44,7 @@ Paper 4 (please cite): Mihelač, L., Wiggins, G. A., Lavrač, N., & Povh, J. (20
 
 Paper 5 (please cite): Mihelač, L. & Povh, J. (2019). The impact of harmony on the perception of music. In Proceedings SOR’19 (pp. 360-365).
 
-DATASET
+<code style="color : cyan">DATASET:</code>
 
 Dataset: DATA_HARMCOMP1 AND DATA_HARMCOMP2
 
