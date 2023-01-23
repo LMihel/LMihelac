@@ -8,8 +8,9 @@ Even though interest in children's folk songs has increased among ethnomusicolog
 
 The impact of various musical elements/dimensions on children's folk song perceptions of (ir)regularity and complexity is mostly unclear. Although cross-cultural study on melodic complexity has been undertaken, the majority of it has focused on children's lullabies. There are currently no studies that use computational models to simulate the perception of (ir)regularity in children's folk songs. This may be because children's folk songs are generally considered to be regular, with a simple structure with repeated patterns, and even as a primitive layer of folk songs.
 
-<span style="color:cyan">
+<style>p{color:Cyan;}
 PAPER:
+
 </style>
 
 <code style="color : cyan">PAPER:</code>
