@@ -17,11 +17,17 @@ DATASET with description:
 
 ## (Ir)regularity in different musical genres
 
+### Exploring harmony (experimental approach)
+
 In the article by Mihelač & Povh (2020), we contribute to the longstanding challenge of how to explain the listener’s acceptability for a particular piece of music, using harmony as one of the crucial dimensions in music, one of the least examined in this context. We propose three measures for the complexity of harmony: (i) the complexity based on usage of the basic tonal functions and parallels in the harmonic progression, (ii) the entropies of unigrams and bigrams in the sequence of chords, and (iii) the regularity of the harmonic progression. Additionally, we propose four measures for the acceptability of musical pieces (perceptual variables): difficulty, pleasantness, recognition, and repeatability.
 
 These measures have been evaluated in each musical example within our dataset, consisting of 160 carefully selected musical excerpts from different musical styles. The first and the third complexity measures and the musical style of excerpts were determined by the first author using criteria described in the article, while the entropies were computed by computer using Shannon’s formula, after the harmonic progression was determined. The four perceptual variables were obtained by a group of 21 participants, taking their mean values as the final score.
 
 A statistical analysis of this dataset shows that all the measures of complexity are consistent and are together with the musical style important features in explaining the musical acceptability. These relations were further elaborated by regression tree analysis for difficulty and pleasantness after unigram entropy was eliminated due to high correlation with bigram entropy. Results offer reasonable interpretations and also illuminate the relative importance of the predictor variables. In particular, the regularity of the harmonic progression is in both cases the most important predictor.
+
+### Using computational approach
+
+Human experts involved in the detection of (ir)regularity were replaced with artificial intelligence algorithms. Eight variables were evaluated in  measuring entropy and information content, which can be analysed for each musical piece using the computational model Information Dynamics of Music (IDyOM) and different viewpoints (functions for the observation of musical surface). Tested were 160 musical excerpts. A preliminary statistical analysis indicated that three of the eight variables were significant predictors of regularity (Ecpitch, ICcpintfref,and Ecpintfref). Additionally, linear separation was observed between regular and irregular excerpts.   Support vector machine and artificial neural network (ANN) algorithms with a linear kernel and a linear activation function were employed to predict regularity. The final algorithms were capable of predicting regularity with an accuracy ranging from 89% for the ANN algorithm using only the most significant predictor to 100% for the ANN algorithm using all eight prediction variables.
 
 PAPERS:
 
