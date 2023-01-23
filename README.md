@@ -21,7 +21,7 @@ The impact of various musical elements/dimensions on children's folk song percep
 
 ## (Ir)regularity in different musical genres
 
-### Examining (ir)regularity using harmony and experimental approach
+#### https://github.com/LMihel/LMihel.github.io/tree/(Ir)regularity-in-Musical-Structure
 
 In the article by Mihelač & Povh (2020), we contribute to the longstanding challenge of how to explain the listener’s acceptability for a particular piece of music, using harmony as one of the crucial dimensions in music, one of the least examined in this context. We propose three measures for the complexity of harmony: (i) the complexity based on usage of the basic tonal functions and parallels in the harmonic progression, (ii) the entropies of unigrams and bigrams in the sequence of chords, and (iii) the regularity of the harmonic progression. Additionally, we propose four measures for the acceptability of musical pieces (perceptual variables): difficulty, pleasantness, recognition, and repeatability.
 
