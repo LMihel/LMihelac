@@ -6,3 +6,4 @@ Numerous plausible explanations have been proposed, with biological and cultural
 
 There are currently no studies examining the (dis)similarities between and within countries in terms of how musical dimensions and features are understood and used in genres thought to reflect culture (folk songs, children's folk songs, and children's songs). Therefore, a recent research has investigated the cross-cultural (dis)similarities in musical dimensions and features across three genres, folk songs, children's folk songs, and children's songs, in 22 European countries considered to be geographically close or with similar political/historical/economic/cultural backgrounds.
 
+[Back to README (MAIN)](https://lmihel.github.io/)
