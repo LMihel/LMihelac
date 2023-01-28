@@ -6,4 +6,10 @@ The majority of research on the mechanisms underlying perceptual grouping in mus
 
 There is currently no research on how children of various ages perceive boundaries in music or how music is segmented. The aim of a recent research was to bridge the gap in this population's comprehension of music segmentation and to present a more complete picture of human segmentation.
 
+<code style="color : cyan">DATASET:</code>
+
+[SEGM_PHRASES.zip](https://github.com/LMihel/LMihel.github.io/files/10526851/SEGM_PHRASES.zip)
+
+
+
 [Back to README (MAIN)](https://lmihel.github.io/)
