@@ -6,4 +6,13 @@ Numerous plausible explanations have been proposed, with biological and cultural
 
 There are currently no studies examining the (dis)similarities between and within countries in terms of how musical dimensions and features are understood and used in genres thought to reflect culture (folk songs, children's folk songs, and children's songs). Therefore, a recent research has investigated the cross-cultural (dis)similarities in musical dimensions and features across three genres, folk songs, children's folk songs, and children's songs, in 22 European countries considered to be geographically close or with similar political/historical/economic/cultural backgrounds.
 
+<code style="color : cyan">PAPERS:</code>
+
+(please cite) Mihelač, L. & Povh, J. (2021). Computational Analysis of the Musical Diversity in 22 European Countries. In Proceedings SOR’21 (pp. 691-696).
+
+<code style="color : cyan">DATASET:</code>
+
+
+[MUS_DIM_EU22.zip](https://github.com/LMihel/LMihel.github.io/files/10526130/MUS_DIM_EU22.zip)
+
 [Back to README (MAIN)](https://lmihel.github.io/)
