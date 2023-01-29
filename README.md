@@ -2,7 +2,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/123255620/215310536-167ebf76-0dcc-4618-8af7-4f42e9380088.jpg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/123255620/215310536-167ebf76-0dcc-4618-8af7-4f42e9380088.jpg" width="110" height="100">
 
 Lorena Mihelač was born in 1963. She finished her primary school in Rotterdam, started her secondary education in Rotterdam at Sint Montfort College (program natural sciences), and finished the secondary education (Gymnasium for languages), and at the same time music secondary school in Zagreb 1981. In 1980, being still a student of secondary school, she started with the Academy of music in Zagreb and graduated in 1984. In 1986 she started with her post degree master study in Novi Sad, Serbia, at the Academy of arts and finished it in 1988. In 2012, she obtained her PhD in Intercultural Studies (program Slovene studies), at ZRC SAZU, Ljubljana, Slovenia. In the same year, 2012, she started a new study at Faculty of information studies in Novo mesto, Slovenia and obtained her diploma thesis in 2015. She continued at the same institution in 2015 with post degree study and obtained in 2017 master thesis.  In 2017, she decided to continue with a new doctoral study at the International Postgraduate School at the Jožef Stefan Institute, Slovenia (program “Information and Communication Technologies”) under the supervision of Prof. Dr. Geraint A. Wiggins, and co-supervision of Prof. Dr. Janez Povh.
 
