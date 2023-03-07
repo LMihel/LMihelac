@@ -21,7 +21,7 @@ For each of the topic below, a short description is provided, papers and dataset
 
 ## [Segmentation in children](https://github.com/LMihel/LMihel.github.io/tree/Segmentation-of-Melody)
 
-The segmentation of children of various ages (from early childhood until adolescence) is examined with two experiments: Game Experiment and Breathing Experiment. The Game Experiment examines whether children and adolescents. The Breathing Experiment examines if breathing and phrases are coordinated while singing music without lyrics.
+The segmentation of children of various ages (from early childhood until adolescence) is examined with two experiments: Game Experiment and Breathing Experiment. The Game Experiment examines whether children and adolescents are using phrases as a grouping strategy in memorizing melodies. The Breathing Experiment examines if breathing and phrases are coordinated while singing music without lyrics.
 
 ## [Computational segmentation](https://github.com/LMihel/LMihel.github.io/tree/Computational-Segmentation-of-Melody#computational-segmentation)
 
