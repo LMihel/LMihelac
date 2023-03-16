@@ -46,9 +46,9 @@ Paper 5 (please cite): Mihelač, L. & Povh, J. (2019). The impact of harmony on 
 
 <code style="color : cyan">DATASET:</code>
 
-Dataset: DATA_HARMCOMP1 AND DATA_HARMCOMP2
+Dataset:Mihelac_Povh_all_harm1, Mihelac_Povh_all_harm2, Mihelac_Povh_all_harm3
 
-[DATA_HARMCOMP.zip](https://github.com/LMihel/LMihel.github.io/files/10477782/DATA_HARMCOMP.zip)
+[DATA_HARMCOMP.zip](https://github.com/LMihel/LMihel.github.io/files/10987656/DATA_HARMCOMP.zip)
 
 
 [Back to README (MAIN)](https://lmihel.github.io/)
