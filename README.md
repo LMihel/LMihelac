@@ -7,4 +7,4 @@ Musicological and psychological studies have contributed to the development of c
 [COMP_SEGM_PHRASES.zip](https://github.com/LMihel/LMihel.github.io/files/10529208/COMP_SEGM_PHRASES.zip)
 
 
-[Back to README (MAIN)](https://lmihel.github.io/)
+[Back to README (MAIN)](https://github.com/LMihel/LMihelac)
