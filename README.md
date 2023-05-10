@@ -15,4 +15,4 @@ There are currently no studies examining the (dis)similarities between and withi
 
 [MUS_DIM_EU22.zip](https://github.com/LMihel/LMihel.github.io/files/10526130/MUS_DIM_EU22.zip)
 
-[Back to README (MAIN)](https://lmihel.github.io/)
+[Back to README (MAIN)](https://github.com/LMihel/LMihelac)
