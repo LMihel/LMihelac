@@ -12,8 +12,15 @@ There are currently no studies examining the (dis)similarities between and withi
 
 <code style="color : cyan">DATASET:</code>
 
+- The dataset MUS_DIM_EU_22 includes statistical data obtained from folk songs (FS), children's folk songs (CFS), and children's songs (CS) from 22 European countries.
+- MIDI_files consists of MIDI files of folk songs, children's folk songs, and children's songs from 22 European countries.
+- the pdf.file corpora_metadata_Mihelac consists of metadata of the same songs from 22 European countries.
+
 [MIDI_files.zip](https://github.com/LMihel/LMihelac/files/11440422/MIDI_files.zip)
 
 [MUS_DIM_EU22.zip](https://github.com/LMihel/LMihel.github.io/files/10526130/MUS_DIM_EU22.zip)
+
+[corpora_metadata_Mihelac.pdf](https://github.com/LMihel/LMihelac/files/11469014/corpora_metadata_Mihelac.pdf)
+
 
 [Back to README (MAIN)](https://github.com/LMihel/LMihelac)
