@@ -15,10 +15,10 @@ Paper (please cite): Mihelač, L., Povh, J. & Wiggins, G. A. (2021). A computati
 
 <code style="color : cyan">DATASET with description:</code>
 
-[Ir_regularity_CFS_Songs.zip](https://github.com/LMihel/LMihel.github.io/files/10477669/Ir_regularity_CFS_Songs.zip)
-
+[CFS_IRREGULARITY.zip](https://github.com/LMihel/LMihelac/files/11749083/CFS_IRREGULARITY.zip)
 
 ## (Ir)regularity in different musical genres
+
 
 ### Exploring harmony (experimental approach)
 
