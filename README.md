@@ -11,7 +11,7 @@ The impact of various musical elements/dimensions on children's folk song percep
 
 <code style="color : cyan">PAPER:</code>
 
-Paper (please cite): Mihelač, L., Povh, J. & Wiggins, G. A. (2021). A computational approach to the detection and prediction of(ir)regularity in children’s folk songs. Submitted to journal "Empirical Musicology Review" (accepted; waiting for published version).
+Paper (please cite): Mihelač, L., Povh, J. & Wiggins, G. A. (2021). A computational approach to the detection and prediction of(ir)regularity in children’s folk songs. Empirical Musicology Review, 16(2), 205-230. https://doi.org/10.18061/emr.v16i2.8245 
 
 <code style="color : cyan">DATASET with description:</code>
 
