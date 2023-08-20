@@ -48,8 +48,7 @@ Paper 5 (please cite): Mihelač, L. & Povh, J. (2019). The impact of harmony on 
 
 Dataset:Mihelac_Povh_all_harm1, Mihelac_Povh_all_harm2, Mihelac_Povh_all_harm3
 
-[DATA_HARMCOMP.zip](https://github.com/LMihel/LMihelac/files/11749020/DATA_HARMCOMP.zip)
-
+[HARMCOMP_1-2-3-4.zip](https://github.com/LMihel/LMihelac/files/12387383/HARMCOMP_1-2-3-4.zip)
 
 
 
