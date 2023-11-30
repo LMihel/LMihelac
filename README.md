@@ -44,4 +44,4 @@ The computational model IDyOM is used to observe various musical dimensions and 
 
 ## [Sound pictures](https://github.com/LMihel/LMihelac/edit/Sound-pictures/README.md)
 
-New project about exploring images with sound.
+Project JANUS: exploring images with sound. 
