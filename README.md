@@ -42,6 +42,6 @@ Experimental and computational approach is used to explore the perception of irr
 
 The computational model IDyOM is used to observe various musical dimensions and features in folk songs, children’s folk songs, and children’s songs and to explore how musical dimensions and features are used between and within 22 European countries. 
 
-## Sound pictures
+## [Sound pictures](https://github.com/LMihel/LMihelac/edit/Sound-pictures/README.md)
 
 New project about exploring images with sound.
