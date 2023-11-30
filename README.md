@@ -15,16 +15,22 @@ Below are only short excerpts (about 15 seconds) from these musical compositions
 
 **IMAGE 2**:  
 
+<img src="https://github.com/LMihel/LMihelac/assets/123255620/b111d915-26a2-4414-8d81-c1774c01df1b" width="170" height="190">
 
 
 **IMAGE 3**:  
+
+<img src="https://github.com/LMihel/LMihelac/assets/123255620/2af6ade4-e9a6-4b2c-921d-fbca54507209" width="350" height="260">
 
 
 **IMAGE 4**:  
 
 
+<img src="https://github.com/LMihel/LMihelac/assets/123255620/01d431f7-69ae-4fdc-8ace-919a4f18bf14" width="370" height="260">
+
 **IMAGE 5**:  
 
+<img src="https://github.com/LMihel/LMihelac/assets/123255620/3f309967-df68-4986-8858-7c173fff0959" width="250" height="380">
 
 **IMAGE 6**:  
 
