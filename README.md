@@ -8,8 +8,7 @@ Below are only short excerpts (about 15 seconds) from these musical compositions
 
 IMAGE 1:
 
-- JOY: https://github.com/LMihel/LMihelac/assets/123255620/ab978a09-06d1-4978-a012-a47128d66c7b
-
+- JOY: https://github.com/LMihel/LMihelac/assets/123255620/c6803208-1d43-4033-9e70-940d8f5806d3
 
 
 
