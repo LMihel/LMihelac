@@ -14,6 +14,11 @@ She is almost 22 years a coordinator of several international projects (lately, 
 
 She is a collaborator and supervisor in SciDrom – IoT, ŠC Novo mesto, a scientific lab, within the School center ŠC Novo mesto, covering the area “measurement of loudness” (in preparation for the Dolenjska region), and  researching the impact of music on human health (music therapy).
 
+**Affiliation**: 
+
+- School center Novo mesto, SGLVŠ, Novo mesto, Slovenia
+- Faculty of Informatics, Novo mesto, Slovenia
+
 
 # DATASETS AND PAPERS
 
