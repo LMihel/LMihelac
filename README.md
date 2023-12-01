@@ -4,7 +4,8 @@ It is an integral part of the JANUS project, the objective of which is to conver
 
 By experimenting with diverse sound combinations, algorithmic musical compositions were produced in collaboration with a group of students enrolled at School center Novo mesto, SGLVŠ, Novo mesto, Slovenia, in accordance with the emotions (e.g., fear, sorrow, joy, and anger) evoked by the eight images.
 
-Below are only short excerpts (about 15 seconds) from these musical compositions, which were used also in a survey, and afterward in a recent research study.
+The brief excerpts (approximately 20 seconds) from these musical compositions, that were subsequently utilized in a research study and a survey are provided below.
+
 
 **IMAGE 1**:  
  <img src="https://github.com/LMihel/LMihelac/assets/123255620/2aebb46a-8b19-4b55-ac91-466b2f947e2f" width="250" height="360">
