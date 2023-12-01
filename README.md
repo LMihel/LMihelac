@@ -21,10 +21,12 @@ The brief excerpts (approximately 20 seconds) from these musical compositions, t
 **IMAGE 2**:  
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/b111d915-26a2-4414-8d81-c1774c01df1b" width="170" height="190">
 
-- JOY: 
-- SADNESS:https://github.com/LMihel/LMihelac/assets/123255620/a3b50147-ef04-48d5-aa45-328ffd510b4f
-- ANGER: 
-- FEAR: 
+- JOY: https://github.com/LMihel/LMihelac/assets/123255620/ee4376c0-9028-4dd1-92c6-e2e84c937f4d
+- SADNESS: https://github.com/LMihel/LMihelac/assets/123255620/60db419b-c9a1-4ca5-8291-2e48d15aa5db
+- ANGER: https://github.com/LMihel/LMihelac/assets/123255620/8de68c1e-3fb4-4a1e-862e-208e843e9c1d
+- FEAR: https://github.com/LMihel/LMihelac/assets/123255620/1c05b453-a04e-4994-9c4b-3ea7f7e02c04
+
+
 
 
 **IMAGE 3**:  
