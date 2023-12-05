@@ -44,7 +44,7 @@ The brief excerpts (approximately 20 seconds) from these musical compositions, t
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/01d431f7-69ae-4fdc-8ace-919a4f18bf14" width="370" height="260">
 
 - JOY: https://github.com/LMihel/LMihelac/assets/123255620/205f0529-a626-4f03-b069-50b879dfbf6b
-- SADNESS:
+- SADNESS:https://github.com/LMihel/LMihelac/assets/123255620/9ba862e1-abe4-4081-92af-93a705ad8ce4
 - ANGER: https://github.com/LMihel/LMihelac/assets/123255620/c0fe64b6-0014-45e1-9082-4d385aab2220
 - FEAR: https://github.com/LMihel/LMihelac/assets/123255620/d98692b3-42a5-4782-a9a6-00902d255f01
 
@@ -54,10 +54,14 @@ The brief excerpts (approximately 20 seconds) from these musical compositions, t
 **IMAGE 5**:  
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/3f309967-df68-4986-8858-7c173fff0959" width="250" height="380">
 
-- JOY: 
+- JOY:  https://github.com/LMihel/LMihelac/assets/123255620/e409531f-55c0-422e-a51b-59ac5c1f6d8e
 - SADNESS:
 - ANGER: 
-- FEAR:
+- FEAR: https://github.com/LMihel/LMihelac/assets/123255620/7acc89b2-e1af-42c9-bb5f-0867352d83e9
+
+
+
+
 
 
 **IMAGE 6**:  
