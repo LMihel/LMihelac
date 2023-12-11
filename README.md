@@ -77,9 +77,9 @@ The brief excerpts (approximately 20 seconds) from these musical compositions, t
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/61114ee4-0781-457f-8f77-4fedcfb1af48" width="273" height="272">
 
 - JOY: 
-- SADNESS:
-- ANGER: 
-- FEAR:
+- SADNESS: https://github.com/LMihel/LMihelac/assets/123255620/2a15244d-cf19-468e-8669-2cbbb0eeaf6e
+- ANGER: https://github.com/LMihel/LMihelac/assets/123255620/8ab20a7a-1ed0-461a-8c33-02d971b9667e
+- FEAR: https://github.com/LMihel/LMihelac/assets/123255620/bd6c45a8-4882-4afb-ae91-22e6ab51705a
 
   
 
