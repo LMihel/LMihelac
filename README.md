@@ -69,7 +69,7 @@ The brief excerpts (approximately 20 seconds) from these musical compositions, t
 
 - JOY: 
 - SADNESS:
-- ANGER: 
+- ANGER: https://github.com/LMihel/LMihelac/assets/123255620/8af9093c-ded7-4d39-b3dd-baa7f14f2d4b
 - FEAR:
 
 
