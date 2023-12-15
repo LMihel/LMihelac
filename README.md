@@ -56,7 +56,7 @@ The brief excerpts (approximately 20 seconds) from these musical compositions, t
 
 - JOY:  https://github.com/LMihel/LMihelac/assets/123255620/e409531f-55c0-422e-a51b-59ac5c1f6d8e
 - SADNESS: https://github.com/LMihel/LMihelac/assets/123255620/3ac04e47-d867-4d5b-b2d4-c30e71c4ad31
-- ANGER: 
+- ANGER: https://github.com/LMihel/LMihelac/assets/123255620/5c7bddd4-a95b-44cd-854d-521004f9f520
 - FEAR: https://github.com/LMihel/LMihelac/assets/123255620/7acc89b2-e1af-42c9-bb5f-0867352d83e9
 
 
