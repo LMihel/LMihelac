@@ -83,6 +83,8 @@ The brief excerpts (approximately 20 seconds) from these musical compositions, t
 
 **IMAGE 8**:  
 
+<img src="https://github.com/LMihel/LMihelac/assets/123255620/26063687-b755-4e09-af6f-bc8b7e31dc38" width="360" height="240">
+
 - JOY: https://github.com/LMihel/LMihelac/assets/123255620/48fd3468-1cd4-443b-a99f-367b39b5c6e9
 - SADNESS:https://github.com/LMihel/LMihelac/assets/123255620/be564f10-f5ee-456b-a83f-ac6526347929
 - ANGER: https://github.com/LMihel/LMihelac/assets/123255620/6e3b90bc-d102-40a2-a122-5a9773aacb92
