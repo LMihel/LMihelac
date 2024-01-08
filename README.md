@@ -74,7 +74,7 @@ The brief excerpts (approximately 20 seconds) from these musical compositions, t
 **IMAGE 7**:  
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/61114ee4-0781-457f-8f77-4fedcfb1af48" width="273" height="272">
 
-- JOY: 
+- JOY: https://github.com/LMihel/LMihelac/assets/123255620/3ce25709-e6b8-4e46-bea6-07cef3a63b5a
 - SADNESS: https://github.com/LMihel/LMihelac/assets/123255620/2a15244d-cf19-468e-8669-2cbbb0eeaf6e
 - ANGER: https://github.com/LMihel/LMihelac/assets/123255620/8ab20a7a-1ed0-461a-8c33-02d971b9667e
 - FEAR: https://github.com/LMihel/LMihelac/assets/123255620/bd6c45a8-4882-4afb-ae91-22e6ab51705a
@@ -83,9 +83,11 @@ The brief excerpts (approximately 20 seconds) from these musical compositions, t
 
 **IMAGE 8**:  
 
-- JOY: 
-- SADNESS:
-- ANGER: 
-- FEAR: 
+- JOY: https://github.com/LMihel/LMihelac/assets/123255620/48fd3468-1cd4-443b-a99f-367b39b5c6e9
+- SADNESS:https://github.com/LMihel/LMihelac/assets/123255620/be564f10-f5ee-456b-a83f-ac6526347929
+- ANGER: https://github.com/LMihel/LMihelac/assets/123255620/6e3b90bc-d102-40a2-a122-5a9773aacb92
+- FEAR: https://github.com/LMihel/LMihelac/assets/123255620/286fa52f-3b33-44f7-ac17-550fa5ef50ec
+
+
 
 [Back to README (MAIN)](https://github.com/LMihel/LMihelac)
