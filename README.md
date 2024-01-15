@@ -15,6 +15,7 @@ At some point, some individuals in ancient times may asked themselves not only â
 
 Sir Isaac Newton, renowned for his research into light, categorized the dispersion of light into spectral components, specifically seven colors (violet, indigo, blue, green, yellow, orange, and red). This early portrayal of the chromaticity diagram was a significant contribution to the field. Newton, in his calculations of wavelength, intriguingly paired these seven spectral components/colors with seven musical notes, starting with note D (representing red color) and concluding with note D:
 
+<p align="center">
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/8a636e27-b763-412b-a50d-6e7c2bd459ff" width="560" height="360" align="center">
 
  
