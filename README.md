@@ -32,7 +32,7 @@ Fourteen students from School Center Novo Mesto, SGLVŠ, involved in Music expre
 
 ***
 
-"Sound to Pictures" explores the sound behind pictures; images are converted into algorithmic musical pieces.
+**Sound to Pictures** explores the sound behind pictures; *images are converted into algorithmic musical pieces*.
 
 It is an integral part of the JANUS project, the objective of which is to convert eight images, contributed by the well-known Slovenian painter and musician Lenart Merlin, into sound by analyzing their color palette and applying various AI techniques.
 
@@ -43,7 +43,7 @@ The brief excerpts (approximately 20 seconds) from these musical compositions, t
 ****
 (SLO)
 
-"Sound to Pictures" raziskuje zvok za slikami; slike se pretvarjajo v algoritemske glasbene kompozicije.
+**Sound to Pictures** raziskuje zvok za slikami; *slike se pretvarjajo v algoritemske glasbene kompozicije*.
 
 Je sestavni del projekta JANUS, katerega cilj je pretvoriti osem slik, ki jih je prispeval znani slovenski slikar in glasbenik Lenart Merlin, v zvok s pomočjo analize njihove barvne palete in uporabo različnih tehnik umetne inteligence.
 
