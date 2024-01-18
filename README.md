@@ -17,7 +17,7 @@ S preizkušanjem raznolikih zvočnih kombinacij so v sodelovanju s skupino dijak
 
 Kratki odlomki (približno 20 sekund) iz teh glasbenih skladb, ki so bili pozneje uporabljeni v raziskovalni študiji in anketi, so navedeni spodaj.
 
-**IMAGE 1**:  
+**IMAGE (SLIKA) 1**:  
  <img src="https://github.com/LMihel/LMihelac/assets/123255620/2aebb46a-8b19-4b55-ac91-466b2f947e2f" width="250" height="360">
  
 - JOY (RADOST): https://github.com/LMihel/LMihelac/assets/123255620/94fcd6cb-c4eb-41b7-a4a5-ca160385013f
@@ -28,7 +28,7 @@ Kratki odlomki (približno 20 sekund) iz teh glasbenih skladb, ki so bili poznej
 
 
 
-**IMAGE 2**:  
+**IMAGE (SLIKA) 2**:  
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/b111d915-26a2-4414-8d81-c1774c01df1b" width="170" height="190">
 
 - JOY (RADOST): https://github.com/LMihel/LMihelac/assets/123255620/ee4376c0-9028-4dd1-92c6-e2e84c937f4d
@@ -39,7 +39,7 @@ Kratki odlomki (približno 20 sekund) iz teh glasbenih skladb, ki so bili poznej
 
 
 
-**IMAGE 3**:  
+**IMAGE (SLIKA) 3**:  
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/2af6ade4-e9a6-4b2c-921d-fbca54507209" width="350" height="260">
 
 - JOY (RADOST): https://github.com/LMihel/LMihelac/assets/123255620/91ff697c-0da8-4f0f-ba39-6a1ae46d7e52
@@ -50,7 +50,7 @@ Kratki odlomki (približno 20 sekund) iz teh glasbenih skladb, ki so bili poznej
 
 
 
-**IMAGE 4**:  
+**IMAGE (SLIKA) 4**:  
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/01d431f7-69ae-4fdc-8ace-919a4f18bf14" width="370" height="260">
 
 - JOY (RADOST): https://github.com/LMihel/LMihelac/assets/123255620/205f0529-a626-4f03-b069-50b879dfbf6b
@@ -61,7 +61,7 @@ Kratki odlomki (približno 20 sekund) iz teh glasbenih skladb, ki so bili poznej
 
 
   
-**IMAGE 5**:  
+**IMAGE (SLIKA) 5**:  
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/3f309967-df68-4986-8858-7c173fff0959" width="250" height="380">
 
 - JOY (RADOST):  https://github.com/LMihel/LMihelac/assets/123255620/e409531f-55c0-422e-a51b-59ac5c1f6d8e
@@ -72,7 +72,7 @@ Kratki odlomki (približno 20 sekund) iz teh glasbenih skladb, ki so bili poznej
 
 
 
-**IMAGE 6**:  
+**IMAGE (SLIKA) 6**:  
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/d2c2636d-1ffc-45e2-af91-29208a5eb9c2" width="360" height="240">
 
 - JOY (RADOST): https://github.com/LMihel/LMihelac/assets/123255620/40dd7e71-ac15-4bc5-aa96-37258e20fcc7
@@ -81,7 +81,7 @@ Kratki odlomki (približno 20 sekund) iz teh glasbenih skladb, ki so bili poznej
 - FEAR (STRAH): https://github.com/LMihel/LMihelac/assets/123255620/dbebf27f-368e-448a-bfed-5b98811c0ef3
 
 
-**IMAGE 7**:  
+**IMAGE (SLIKA) 7**:  
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/61114ee4-0781-457f-8f77-4fedcfb1af48" width="273" height="272">
 
 - JOY (RADOST): https://github.com/LMihel/LMihelac/assets/123255620/3ce25709-e6b8-4e46-bea6-07cef3a63b5a
@@ -91,7 +91,7 @@ Kratki odlomki (približno 20 sekund) iz teh glasbenih skladb, ki so bili poznej
 
   
 
-**IMAGE 8**:  
+**IMAGE (SLIKA) 8**:  
 <img src="https://github.com/LMihel/LMihelac/assets/123255620/26063687-b755-4e09-af6f-bc8b7e31dc38" width="360" height="240">
 
 - JOY (RADOST): https://github.com/LMihel/LMihelac/assets/123255620/48fd3468-1cd4-443b-a99f-367b39b5c6e9
