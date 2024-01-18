@@ -16,6 +16,7 @@ Je sestavni del projekta JANUS, katerega cilj je pretvoriti osem slik, ki jih je
 S preizkušanjem raznolikih zvočnih kombinacij so v sodelovanju s skupino dijakov Šolskega centra Novo mesto, SGLVŠ, Novo mesto, vključenih v izbirni predmet glasbeno izražanje, nastale algoritemske glasbene kompozicije v skladu s čustvi (npr. strah, žalost, veselje, jeza). ki jih prikliče osem podob.
 
 Kratki odlomki (približno 20 sekund) iz teh glasbenih skladb, ki so bili pozneje uporabljeni v raziskovalni študiji in anketi, so navedeni spodaj.
+****
 
 **IMAGE (SLIKA) 1**:  
  <img src="https://github.com/LMihel/LMihelac/assets/123255620/2aebb46a-8b19-4b55-ac91-466b2f947e2f" width="250" height="360">
