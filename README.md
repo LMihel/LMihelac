@@ -21,6 +21,7 @@ Kratki odlomki (približno 20 sekund) iz teh glasbenih skladb, ki so bili poznej
 **IMAGE (SLIKA) 1**:  
  <img src="https://github.com/LMihel/LMihelac/assets/123255620/2aebb46a-8b19-4b55-ac91-466b2f947e2f" width="250" height="360">
  
+ 
 - JOY (RADOST): https://github.com/LMihel/LMihelac/assets/123255620/94fcd6cb-c4eb-41b7-a4a5-ca160385013f
 - SADNESS (ŽALOST): https://github.com/LMihel/LMihelac/assets/123255620/51bc1c23-93f0-4bd8-afae-bd8dd69cdc72
 - ANGER (JEZA): https://github.com/LMihel/LMihelac/assets/123255620/4eb99eae-a0c0-414b-9e01-6c6466c4c226
